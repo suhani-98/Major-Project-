@@ -1,1 +1,1 @@
-
+Problem Solver : Problem Solving: On such platform, students will post their doubts and those doubts will go to the nearest problem solver like while booking a bike in Rapido, the nearest person gets a notification etc and then he accepts or rejects the ride offer and so on the problem solver will provide the solution to that problem through some communication medium.
