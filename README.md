@@ -8,3 +8,5 @@
   
 5) To create a application or tool forr the disables which can help them to doo their regular activities seeminglessly.
    ex. forr blinds create a tool which can sense the environment and help them to navigate.
+
+6) farmer to customer connect.....no middle man 
