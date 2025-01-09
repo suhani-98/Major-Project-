@@ -1,6 +1,8 @@
 1. Problem Solver : Problem Solving: On such platform, students will post their doubts and those doubts will go to the nearest problem solver like while booking a bike in Rapido, the nearest person gets a notification etc and then he accepts or rejects the ride offer and so on the problem solver will provide the solution to that problem through some communication medium.
 
-LinkedIn : Fake Hiring
+2 LinkedIn : Fake Hiring
+
+3 provided a interface between investors and skilled people. some skilled people suffer from resources and money. this platform solve that problem. skilled person show their work etc., that bases investors invest for their idea, plateform, all domain.
 
  2. A Software, AI App to provide legal information ie. Case laws various important landmark judgement on important case legal matters.
 
