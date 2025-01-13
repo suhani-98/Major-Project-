@@ -6,6 +6,10 @@
 
  4. A Software, AI App to provide legal information ie. Case laws various important landmark judgement on important case legal matters.
 
+5. Toy exchanging app
+
+As children grow up, they get tired of their toys and move on to the next one. This is one of the most inventive software startup ideas. It's aimed at the group of parents whose children quickly outgrow their toys. Rather than purchasing new toys every few months, parents can upload their old ones to the app and trade them in for new ones.
+
 Background: Due to unavailability of legal experts in Police stations, whenever a complainant comes to us with his/her complaint to get a First Information Report written sometimes we make mistakes in writing all the sections/acts due to which problems arise in the investigation later on. Description: Whenever a complainant comes to the police station with his/her complaint to get the First Information Report written, the investigating officer sometimes due to ignorance or lack of experience is not able to follow the provisions and the First Information Report remains deficient. Due to which, later on, problems arise in the investigation and justice gets affected, as legal experts are not posted at police stations. If there will be any such software or app which can use Artificial Intelligance (AI) and immediately provide us the information regarding appropriate and correct sections and acts, as per the incident of the complainant. So there will be no errors regarding the sections and acts under the First Information Report and the investigation and justice will not be affected and will help in investigation. Expected Solution: We want a software (app) in which as soon as we write/speak the details of the incident, information about 
 appropriate sections and acts is immediately available to us and which is reliable
 
