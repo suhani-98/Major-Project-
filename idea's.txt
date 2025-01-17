@@ -30,4 +30,5 @@ A smart AI based solution for traffic management on routes with heavy traffic fr
 
 6) farmer to customer connect.....no middle man 
 
+7) addmission process
 
